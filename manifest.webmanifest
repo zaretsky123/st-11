@@ -1,0 +1,19 @@
+{
+  "name": "Расписание СТ-11 · Стоматология",
+  "short_name": "СТ-11",
+  "description": "Расписание группы СТ-11 на осенний семестр 2026 года",
+  "start_url": "/st-11/",
+  "scope": "/st-11/",
+  "display": "standalone",
+  "background_color": "#0c0d13",
+  "theme_color": "#0c0d13",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/st-11/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
