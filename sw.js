@@ -1,4 +1,4 @@
-const CACHE_NAME = "schedule-st11-v2";
+const CACHE_NAME = "schedule-st11-v3";
 const APP_SHELL = [
   "/st-11/",
   "/st-11/manifest.webmanifest",
