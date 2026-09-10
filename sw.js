@@ -1,8 +1,9 @@
-const CACHE_NAME = "schedule-st11-v3";
+const CACHE_NAME = "schedule-st11-v4";
 const APP_SHELL = [
   "/st-11/",
   "/st-11/manifest.webmanifest",
   "/st-11/favicon.svg",
+  "/st-11/schedule-data.js",
 ];
 
 self.addEventListener("install", (event) => {
