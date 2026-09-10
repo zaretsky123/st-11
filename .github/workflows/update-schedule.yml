@@ -1,6 +1,11 @@
 name: Обновление расписания СТ-11
 
 on:
+  push:
+    branches: ["main"]
+    paths:
+      - "scripts/update_schedule.py"
+      - ".github/workflows/update-schedule.yml"
   schedule:
     # 06:17 по Москве. Не используем начало часа, когда GitHub Actions перегружен.
     - cron: "17 3 * * *"
